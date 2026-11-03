@@ -34,6 +34,8 @@ I'm Damodar, an infrastructure enthusiast interested in operating systems, netwo
 <div align="center">
 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Google Kubernetes Engine](https://img.shields.io/badge/GKE-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Google Cloud CLI](https://img.shields.io/badge/gcloud%20CLI-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Podman](https://img.shields.io/badge/Podman-892CA0?style=flat-square&logo=podman&logoColor=white)
 ![etcd](https://img.shields.io/badge/etcd-419EDA?style=flat-square&logo=etcd&logoColor=white)
@@ -105,6 +107,12 @@ I start with a working system, change one part at a time, and observe how the be
 ### More About My Interests
 
 I’m also interested in exploring Linux internals, operating-system behavior, container runtimes, and cloud computing. I enjoy breaking down complex systems into their components, tracing how networking and control-plane services interact, and learning how to diagnose and recover from failures. These are areas I’m continuing to explore through hands-on labs and documentation.
+
+---
+
+### Cloud Learning
+
+I’m learning how Kubernetes runs on Google Cloud through **Google Kubernetes Engine (GKE)**, Google Cloud’s managed Kubernetes service. I’m also exploring the **Google Cloud CLI (`gcloud`)** to understand how cloud resources and GKE clusters are managed from the command line.
 
 <div align="center">
 
