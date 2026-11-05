@@ -53,6 +53,14 @@ I'm Damodar, an infrastructure enthusiast interested in operating systems, netwo
 
 </div>
 
+#### Tech Stack in Text
+
+- **Platforms & operating systems:** Linux, Google Cloud, GKE, VirtualBox
+- **Kubernetes & infrastructure:** Kubernetes, etcd, Docker, Podman, NGINX
+- **Programming & automation:** Bash, Java, systemd
+- **Version control & DevOps:** Git, GitHub, GitLab, Prometheus, Grafana
+- **Privacy & communications:** Tor, Matrix, I2P, IRC, self-hosted mail servers
+
 I also have hands-on experience setting up private-hosted services, including I2P networks, IRC networks, and mail servers. I prioritize privacy and anonymity, using secure tunnels to help protect services and communications.
 
 ---
