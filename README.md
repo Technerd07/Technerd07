@@ -2,7 +2,7 @@
 
 # Hi, I'm Damodar · Technerd07 👋
 
-I'm Damodar, an infrastructure enthusiast interested in operating systems, networking, cloud computing, and how complex systems work. I enjoy building hands-on labs, tracing failures across system components, and documenting what I learn.
+I'm Damodar, an infrastructure enthusiast interested in operating systems, networking, cloud computing, and how complex systems work. I enjoy building hands-on labs, tracing failures across systems, and documenting practical solutions to real-world problems.
 
 <br />
 
@@ -53,15 +53,13 @@ I'm Damodar, an infrastructure enthusiast interested in operating systems, netwo
 
 </div>
 
-#### Tech Stack in Text
+- **Platforms & operating systems:** Linux, Google Cloud, GKE, and VirtualBox
+- **Kubernetes & infrastructure:** Kubernetes, etcd, Docker, Podman, and NGINX
+- **Programming & automation:** Bash, Java, and systemd
+- **Version control & DevOps:** Git, GitHub, GitLab, Prometheus, and Grafana
+- **Privacy & communications:** Tor, Matrix, I2P, IRC, and self-hosted mail infrastructure
 
-- **Platforms & operating systems:** Linux, Google Cloud, GKE, VirtualBox
-- **Kubernetes & infrastructure:** Kubernetes, etcd, Docker, Podman, NGINX
-- **Programming & automation:** Bash, Java, systemd
-- **Version control & DevOps:** Git, GitHub, GitLab, Prometheus, Grafana
-- **Privacy & communications:** Tor, Matrix, I2P, IRC, self-hosted mail servers
-
-I also have hands-on experience setting up private-hosted services, including I2P networks, IRC networks, and mail servers. I prioritize privacy and anonymity, using secure tunnels to help protect services and communications.
+I also have hands-on experience deploying private-hosted services, including I2P networks, IRC infrastructure, and mail servers. I prioritize privacy and anonymity by using secure tunnels and privacy-preserving infrastructure patterns.
 
 ---
 
@@ -86,8 +84,8 @@ $ cat focus_areas.json
 
 | Project | What it is |
 | :-- | :-- |
-| [**kubernetes-manual-cluster**](https://github.com/Technerd07/kubernetes-manual-cluster) | Numbered shell scripts that build a Kubernetes cluster by hand: jump box and SSH setup, certificate and key management, etcd, control plane, kubelets, and pod networking. |
-| [**k8s-problems-reproduced**](https://github.com/Technerd07/k8s-problems-reproduced) | Chaos engineering and disaster-recovery lab for bare-metal Kubernetes. Reproducible fault injection and recovery exercises. |
+| [**kubernetes-manual-cluster**](https://github.com/Technerd07/kubernetes-manual-cluster) | Numbered shell scripts that build a Kubernetes cluster by hand: jump box and SSH setup, certificate and key management, control plane configuration, and workload bootstrap. |
+| [**k8s-problems-reproduced**](https://github.com/Technerd07/k8s-problems-reproduced) | Chaos engineering and disaster-recovery lab for bare-metal Kubernetes. Reproducible fault injection and recovery workflows for real-world cluster problems. |
 
 #### 🧰 Tooling
 
@@ -109,19 +107,19 @@ $ cat focus_areas.json
 
 ### How I Learn
 
-I start with a working system, change one part at a time, and observe how the behavior changes. When something fails, I trace the issue across the relevant layers—Linux, networking, Kubernetes components, and applications—then document the fix and what I learned.
+I start with a working system, change one part at a time, and observe how the behavior changes. When something fails, I trace the issue across the relevant layers—Linux, networking, Kubernetes components, and application dependencies—to identify the root cause and document the fix.
 
 ---
 
 ### More About My Interests
 
-I’m also interested in exploring Linux internals, operating-system behavior, container runtimes, and cloud computing. I enjoy breaking down complex systems into their components, tracing how network traffic flows, and understanding how failures propagate.
+I’m also interested in exploring Linux internals, operating-system behavior, container runtimes, and cloud computing. I enjoy breaking down complex systems into their components, tracing how networks and services interact, and validating my understanding through hands-on experimentation.
 
 ---
 
 ### Cloud Learning
 
-I’m learning how Kubernetes runs on Google Cloud through **Google Kubernetes Engine (GKE)**, Google Cloud’s managed Kubernetes service. I’m also exploring the **Google Cloud CLI (`gcloud`)** to provision resources and manage cloud infrastructure.
+I’m learning how Kubernetes runs on Google Cloud through **Google Kubernetes Engine (GKE)**, Google Cloud’s managed Kubernetes service. I’m also exploring the **Google Cloud CLI (`gcloud`)** to deepen my practical understanding of cloud-native operations and automation.
 
 <div align="center">
 
