@@ -92,6 +92,7 @@ $ cat focus_areas.json
 | Project | What it is |
 | :-- | :-- |
 | [**git-sync**](https://github.com/Technerd07/git-sync) | Bash utility for local Git setup and remote repository synchronization, with optional systemd user timer integration. |
+| [**devlog**](https://github.com/Technerd07/devlog) | Bash-based notes app learning project with an interactive shell client, local Age encryption, an HTTP backend, and PostgreSQL storage. |
 
 #### 🔐 Privacy & Security
 
