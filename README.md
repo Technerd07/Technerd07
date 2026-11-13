@@ -26,11 +26,7 @@ I'm Damodar, an infrastructure enthusiast interested in operating systems, netwo
 ### Tech Stack
 
 <div align="center">
-<<<<<<< HEAD
   <img src="https://skillicons.dev/icons?i=linux,bash,kubernetes,docker,java,git,github,githubactions,nginx,prometheus&theme=dark" alt="Linux, Bash, Kubernetes, Docker, Java, Git, GitHub, GitHub Actions, Nginx, and Prometheus" />
-=======
-  <img src="https://skillicons.dev/icons?i=linux,bash,kubernetes,docker,java,git,github,gitlab,nginx,prometheus,grafana&theme=dark" alt="Skills" />
->>>>>>> 8af153c43eb94347c4c94cc35499f0a4514063ee
 </div>
 
 <br />
@@ -48,11 +44,7 @@ My core stack includes Linux and Bash, Kubernetes (including GKE and etcd), Dock
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=111827)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-<<<<<<< HEAD
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-=======
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
->>>>>>> 8af153c43eb94347c4c94cc35499f0a4514063ee
 ![Tor](https://img.shields.io/badge/Tor-7D4698?style=flat-square&logo=torproject&logoColor=white)
 ![Matrix](https://img.shields.io/badge/Matrix-000000?style=flat-square&logo=matrix&logoColor=white)
 ![I2P](https://img.shields.io/badge/I2P-Privacy%20Network-4B6B3C?style=flat-square)
@@ -66,7 +58,7 @@ My core stack includes Linux and Bash, Kubernetes (including GKE and etcd), Dock
 - **Platforms & operating systems:** Linux, Google Cloud, GKE, and VirtualBox
 - **Kubernetes & infrastructure:** Kubernetes, etcd, Docker, Podman, and NGINX
 - **Programming & automation:** Bash, Java, and systemd
-- **Version control & DevOps:** Git, GitHub, GitLab, Prometheus, and Grafana
+- **Version control & DevOps:** Git, GitHub, GitHub Actions, and Prometheus
 - **Privacy & communications:** Tor, Matrix, I2P, IRC, and self-hosted mail infrastructure
 
 I also have hands-on experience deploying private-hosted services, including I2P networks, IRC infrastructure, and mail servers. I prioritize privacy and anonymity by using secure tunnels and privacy-preserving infrastructure patterns.
