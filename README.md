@@ -26,10 +26,12 @@ I'm Damodar, an infrastructure enthusiast interested in operating systems, netwo
 ### Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,kubernetes,docker,java,git,github,nginx,prometheus,grafana&theme=dark" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=linux,bash,kubernetes,docker,java,git,github,githubactions,nginx,prometheus&theme=dark" alt="Linux, Bash, Kubernetes, Docker, Java, Git, GitHub, GitHub Actions, Nginx, and Prometheus" />
 </div>
 
 <br />
+
+My core stack includes Linux and Bash, Kubernetes (including GKE and etcd), Docker and Podman, Git and GitHub Actions, Java, Nginx, Prometheus, and systemd.
 
 <div align="center">
 
@@ -42,6 +44,7 @@ I'm Damodar, an infrastructure enthusiast interested in operating systems, netwo
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=111827)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Tor](https://img.shields.io/badge/Tor-7D4698?style=flat-square&logo=torproject&logoColor=white)
 ![Matrix](https://img.shields.io/badge/Matrix-000000?style=flat-square&logo=matrix&logoColor=white)
 ![I2P](https://img.shields.io/badge/I2P-Privacy%20Network-4B6B3C?style=flat-square)
