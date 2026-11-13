@@ -2,7 +2,7 @@
 
 # Hi, I'm Damodar · Technerd07 👋
 
-I'm Damodar, an infrastructure enthusiast interested in operating systems, networking, cloud computing, and how complex systems work. I enjoy building hands-on labs, tracing failures across system components, and documenting what I learn.
+I'm Damodar, an infrastructure enthusiast interested in operating systems, networking, cloud computing, and how complex systems work. I enjoy building hands-on labs, tracing failures across systems, and documenting practical solutions to real-world problems.
 
 <br />
 
@@ -26,7 +26,11 @@ I'm Damodar, an infrastructure enthusiast interested in operating systems, netwo
 ### Tech Stack
 
 <div align="center">
+<<<<<<< HEAD
   <img src="https://skillicons.dev/icons?i=linux,bash,kubernetes,docker,java,git,github,githubactions,nginx,prometheus&theme=dark" alt="Linux, Bash, Kubernetes, Docker, Java, Git, GitHub, GitHub Actions, Nginx, and Prometheus" />
+=======
+  <img src="https://skillicons.dev/icons?i=linux,bash,kubernetes,docker,java,git,github,gitlab,nginx,prometheus,grafana&theme=dark" alt="Skills" />
+>>>>>>> 8af153c43eb94347c4c94cc35499f0a4514063ee
 </div>
 
 <br />
@@ -44,7 +48,11 @@ My core stack includes Linux and Bash, Kubernetes (including GKE and etcd), Dock
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=111827)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+<<<<<<< HEAD
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+=======
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+>>>>>>> 8af153c43eb94347c4c94cc35499f0a4514063ee
 ![Tor](https://img.shields.io/badge/Tor-7D4698?style=flat-square&logo=torproject&logoColor=white)
 ![Matrix](https://img.shields.io/badge/Matrix-000000?style=flat-square&logo=matrix&logoColor=white)
 ![I2P](https://img.shields.io/badge/I2P-Privacy%20Network-4B6B3C?style=flat-square)
@@ -55,7 +63,13 @@ My core stack includes Linux and Bash, Kubernetes (including GKE and etcd), Dock
 
 </div>
 
-I also have hands-on experience setting up private-hosted services, including I2P networks, IRC networks, and mail servers. I prioritize privacy and anonymity, using secure tunnels to help protect service traffic and access.
+- **Platforms & operating systems:** Linux, Google Cloud, GKE, and VirtualBox
+- **Kubernetes & infrastructure:** Kubernetes, etcd, Docker, Podman, and NGINX
+- **Programming & automation:** Bash, Java, and systemd
+- **Version control & DevOps:** Git, GitHub, GitLab, Prometheus, and Grafana
+- **Privacy & communications:** Tor, Matrix, I2P, IRC, and self-hosted mail infrastructure
+
+I also have hands-on experience deploying private-hosted services, including I2P networks, IRC infrastructure, and mail servers. I prioritize privacy and anonymity by using secure tunnels and privacy-preserving infrastructure patterns.
 
 ---
 
@@ -80,14 +94,15 @@ $ cat focus_areas.json
 
 | Project | What it is |
 | :-- | :-- |
-| [**kubernetes-manual-cluster**](https://github.com/Technerd07/kubernetes-manual-cluster) | Numbered shell scripts that build a Kubernetes cluster by hand: jump box and SSH setup, certificate and key generation, etcd, control plane, worker nodes, kubectl config, and pod networking. |
-| [**k8s-problems-reproduced**](https://github.com/Technerd07/k8s-problems-reproduced) | Chaos engineering and disaster-recovery lab for bare-metal Kubernetes. Reproducible fault injection (etcd corruption, API server outages, CNI/iptables drops, DNS and endpoint failures) with recovery workflows. |
+| [**kubernetes-manual-cluster**](https://github.com/Technerd07/kubernetes-manual-cluster) | Numbered shell scripts that build a Kubernetes cluster by hand: jump box and SSH setup, certificate and key management, control plane configuration, and workload bootstrap. |
+| [**k8s-problems-reproduced**](https://github.com/Technerd07/k8s-problems-reproduced) | Chaos engineering and disaster-recovery lab for bare-metal Kubernetes. Reproducible fault injection and recovery workflows for real-world cluster problems. |
 
 #### 🧰 Tooling
 
 | Project | What it is |
 | :-- | :-- |
 | [**git-sync**](https://github.com/Technerd07/git-sync) | Bash utility for local Git setup and remote repository synchronization, with optional systemd user timer integration. |
+| [**devlog**](https://github.com/Technerd07/devlog) | Bash-based notes app learning project with an interactive shell client, local Age encryption, an HTTP backend, and PostgreSQL storage. |
 
 #### 🔐 Privacy & Security
 
@@ -103,19 +118,19 @@ $ cat focus_areas.json
 
 ### How I Learn
 
-I start with a working system, change one part at a time, and observe how the behavior changes. When something fails, I trace the issue across the relevant layers—Linux, networking, Kubernetes components, and workloads—then document the evidence and recovery steps. This helps me understand not just which command fixes an issue, but why the system behaved that way.
+I start with a working system, change one part at a time, and observe how the behavior changes. When something fails, I trace the issue across the relevant layers—Linux, networking, Kubernetes components, and application dependencies—to identify the root cause and document the fix.
 
 ---
 
 ### More About My Interests
 
-I’m also interested in exploring Linux internals, operating-system behavior, container runtimes, and cloud computing. I enjoy breaking down complex systems into their components, tracing how networking and control-plane services interact, and learning how to diagnose and recover from failures. These are areas I’m continuing to explore through hands-on labs and documentation.
+I’m also interested in exploring Linux internals, operating-system behavior, container runtimes, and cloud computing. I enjoy breaking down complex systems into their components, tracing how networks and services interact, and validating my understanding through hands-on experimentation.
 
 ---
 
 ### Cloud Learning
 
-I’m learning how Kubernetes runs on Google Cloud through **Google Kubernetes Engine (GKE)**, Google Cloud’s managed Kubernetes service. I’m also exploring the **Google Cloud CLI (`gcloud`)** to understand how cloud resources and GKE clusters are managed from the command line.
+I’m learning how Kubernetes runs on Google Cloud through **Google Kubernetes Engine (GKE)**, Google Cloud’s managed Kubernetes service. I’m also exploring the **Google Cloud CLI (`gcloud`)** to deepen my practical understanding of cloud-native operations and automation.
 
 <div align="center">
 
